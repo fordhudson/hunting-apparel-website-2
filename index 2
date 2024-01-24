@@ -1,0 +1,25 @@
+Last login: Tue Jan 23 22:48:40 on ttys000
+fordhudson@Fords-MBP index.html % >....                                         
+        <h1>Hunting Apparel</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome to Our Hunting Apparel Store</h2>
+            <p>Explore our wide range of hunting gear and apparel.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Hunting Apparel. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
